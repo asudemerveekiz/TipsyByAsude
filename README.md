@@ -7,4 +7,4 @@ You can see some screenshots about the app below.
 
 ![first screen](https://user-images.githubusercontent.com/67782476/187256574-d573d861-33fc-4cb7-9a3b-0a10e51f872f.png)
 ![result screen](https://user-images.githubusercontent.com/67782476/187256580-e27449c5-7e0b-461d-aaec-a3c5d5e3dbcf.png)
-![icon](https://user-images.githubusercontent.com/67782476/187256577-309da3d3-797c-4c74-96f0-6c56b7ee7983.png)
+
